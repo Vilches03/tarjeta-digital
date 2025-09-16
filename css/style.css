@@ -11,19 +11,11 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #14b9e3;
+  background: white;
   font-family: Arial, sans-serif;
 }
 
-/* Estilos de la tarjeta */
-.card {
-  background: rgb(168, 44, 44);
-  padding: 1.5rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  max-width: 350px;
-  text-align: center;
-}
+
 
 .profile-pic {
   width: 120px;
